@@ -6,13 +6,13 @@
     On the terminal, copy and paste the following command
 
    ```bash
-   git clone https://github.com/Aryan-Dot-Dev/Lab-Sheet-4
+   [git clone https://github.com/Aryan-Dot-Dev/Lab-Sheet-4](https://github.com/Ashish5180/Dsa-labSheet-4)
    ```
 
-2. **Go to the Lab Sheet 1 directory**
-    Navigate to ```Lab-Sheet-4 ```
+2. **Go to the DSA-Lab Sheet 1 directory**
+    Navigate to ```DSA-Lab-Sheet-4 ```
     ```
-    cd .\Lab-Sheet-4
+    cd .\DSA-Lab-Sheet-4
     ```
    
 3. **Compile the Code**:
