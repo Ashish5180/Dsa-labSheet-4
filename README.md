@@ -6,7 +6,7 @@
     On the terminal, copy and paste the following command
 
    ```bash
-   git clone [https://github.com/Aryan-Dot-Dev/Lab-Sheet-4](https://github.com/Ashish5180/Dsa-labSheet-4
+   git clone https://github.com/Ashish5180/Dsa-labSheet-4
    ```
 
 2. **Go to the DSA-Lab Sheet 1 directory**
